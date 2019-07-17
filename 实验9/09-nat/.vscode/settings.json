@@ -1,0 +1,10 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "ip.h": "c",
+        "endian.h": "c",
+        "tcp.h": "c",
+        "nat.h": "c"
+    }
+}

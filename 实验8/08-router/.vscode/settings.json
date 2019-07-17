@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "arpcache.h": "c",
+        "ether.h": "c",
+        "arp.h": "c",
+        "icmp.h": "c",
+        "ip.h": "c",
+        "base.h": "c"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "python.linting.pylintEnabled": false
+}
