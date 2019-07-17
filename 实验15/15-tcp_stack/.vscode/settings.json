@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "arpcache.h": "c",
-        "base.h": "c",
-        "tcp_sock.h": "c"
-    }
-}

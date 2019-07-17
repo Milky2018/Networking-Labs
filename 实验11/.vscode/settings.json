@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "mospf_database.h": "c",
-        "ip.h": "c",
-        "base.h": "c"
-    },
-    "C_Cpp.errorSquiggles": "Enabled"
-}
